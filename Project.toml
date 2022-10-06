@@ -1,0 +1,4 @@
+name = "MiscUtils"
+uuid = "898b6c77-5984-4474-908c-bc9eed2ff7df"
+authors = ["Jon Alm Eriksen <jon.alm.eriksen@novelda.com>"]
+version = "0.1.0"
